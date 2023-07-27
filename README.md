@@ -5,7 +5,7 @@ HM-LIO: A Hash Map based LiDAR-Inertial Odometry.
 
 **NOTE:** This is just my personal experimental demonstration, maybe some bugs, feel free to contact me.
 
-- [Video-Bilibili](https://www.bilibili.com/video/BV1CP411k7hE/?spm_id_from=333.999.0.0&vd_source=438f630fe29bd5049b24c7f05b1bcaa3)
+- [Video-Bilibili](https://www.bilibili.com/video/BV1Hp4y157wW/?vd_source=438f630fe29bd5049b24c7f05b1bcaa3)
   
 <div align="left">
 <img src="doc/casual_walk.gif" width=47.5% /> <img src="doc/west2.gif" width=47.5% />
