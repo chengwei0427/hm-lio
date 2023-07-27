@@ -5,6 +5,13 @@ HM-LIO: A Hash Map based LiDAR-Inertial Odometry.
 
 **NOTE:** This is just my personal experimental demonstration, maybe some bugs, feel free to contact me.
 
+## Main features
+- Manage the local map with HashMpa
+- A simple reproduction of fastlio 1.0 (use eigen instead of IKFoM)
+- support online extrinsic calib
+- add residual weight 
+- a lidar process moudle
+
 - [Video-Bilibili](https://www.bilibili.com/video/BV1Hp4y157wW/?vd_source=438f630fe29bd5049b24c7f05b1bcaa3)
   
 <div align="left">
