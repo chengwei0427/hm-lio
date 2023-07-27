@@ -56,7 +56,7 @@ Clone the repository and catkin_make:
 ```
     cd ~/$A_ROS_DIR$/src
     git clone https://github.com/chengwei0427/hm-lio.git
-    cd ct_lio
+    cd hm_lio
     cd ../..
     catkin_make
     source devel/setup.bash
@@ -89,7 +89,7 @@ rosbag play *
 
 There is a time log file in **./log/** after run the code. we can plot the time with the scripts.
 ```
-cd CT-LIO
+cd hm-lio
 python3 ./scripts/all_time.py
 ```
 <div align="left">
