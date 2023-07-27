@@ -12,12 +12,14 @@ HM-LIO: A Hash Map based LiDAR-Inertial Odometry.
 - add residual weight 
 - a lidar process moudle
 
-- [Video-Bilibili](https://www.bilibili.com/video/BV1Hp4y157wW/?vd_source=438f630fe29bd5049b24c7f05b1bcaa3)
+
+
   
 <div align="left">
 <img src="doc/casual_walk.gif" width=47.5% /> <img src="doc/west2.gif" width=47.5% />
 </div>
 
+- [Video-Bilibili](https://www.bilibili.com/video/BV1Hp4y157wW/?vd_source=438f630fe29bd5049b24c7f05b1bcaa3)
 
 ### Some test results are show below:
 
